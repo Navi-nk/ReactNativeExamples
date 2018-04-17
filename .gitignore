@@ -1,0 +1,4 @@
+#ignore all hidden dirs
+.*/
+package-lock.json
+node_modules
